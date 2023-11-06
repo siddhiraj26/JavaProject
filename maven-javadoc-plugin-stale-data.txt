@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'C:/Users/siddh/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'D:/dbapp/src/main/java;D:/dbapp/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/dbapp/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'dbapp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'dbapp 1.0-SNAPSHOT API'
+dpm.dbapp
+C:\Users\siddh\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar = 1699029528691
+D:\dbapp\src\main\java = 1699029261614
+D:\dbapp\target\generated-sources\annotations = 1697419406000
+D:\dbapp\target\apidocs\allclasses-index.html = 1699030643145
+D:\dbapp\target\apidocs\allpackages-index.html = 1699030643149
+D:\dbapp\target\apidocs\copy.svg = 1699030643195
+D:\dbapp\target\apidocs\element-list = 1699030642921
+D:\dbapp\target\apidocs\help-doc.html = 1699030643186
+D:\dbapp\target\apidocs\index-all.html = 1699030643173
+D:\dbapp\target\apidocs\index.html = 1699030643181
+D:\dbapp\target\apidocs\member-search-index.js = 1699030643154
+D:\dbapp\target\apidocs\module-search-index.js = 1699030643150
+D:\dbapp\target\apidocs\overview-tree.html = 1699030643121
+D:\dbapp\target\apidocs\package-search-index.js = 1699030643151
+D:\dbapp\target\apidocs\script.js = 1699030643194
+D:\dbapp\target\apidocs\search-page.js = 1699030643200
+D:\dbapp\target\apidocs\search.html = 1699030643177
+D:\dbapp\target\apidocs\search.js = 1699030643198
+D:\dbapp\target\apidocs\serialized-form.html = 1699030643077
+D:\dbapp\target\apidocs\stylesheet.css = 1699030643191
+D:\dbapp\target\apidocs\tag-search-index.js = 1699030643154
+D:\dbapp\target\apidocs\type-search-index.js = 1699030643153
